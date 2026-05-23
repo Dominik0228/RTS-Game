@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Bot
+  - CinemachineTarget
+  - MainButton
+  - CommandCenter
+  - Refinery(Active)
+  - Refinery(Empty)
+  - Bot(Crystal)
+  - Terrain
+  - Building(Preview)
+  - FusionReactor
+  - Crystal
+  - PlasmaTower
+  - Bullet
+  - Door
+  - Door(Locked)
+  - Enemy
+  - MainTarget
+  - SupplyDepot
+  - LandingZone
+  - CrawlerJaaro
+  - WarriorJaaro
+  - RangerJaaro
+  - CrawlerThara
+  - WarriorThara
+  - RangerThara
+  - Alien_Headquarter
+  - Alien_MagneticCore
+  - Alien_FieldGenerator
+  - Alien_Prism
+  - Alien_Hatchery
+  - Alien_Refinery
+  - CombatDroidMKI
+  - CombatDroidMKII
+  - AssaultTank
+  - Field
+  - CrawlerNexus
+  - WarriorNexus
+  - RangerNexus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terrain
+  - Water
+  - UI
+  - Units
+  - Buildings
+  - Resources
+  - NonBuildable
+  - NoReflection
+  - EnemyUnit
+  - EnemyBuilding
+  - Hologram
+  - Bullet_Human
+  - Bullet_Alien
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
